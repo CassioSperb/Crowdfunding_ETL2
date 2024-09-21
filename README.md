@@ -1,5 +1,5 @@
 # Project2-challenge
-Project2-challenge
+Cassio, Kendall
 
 ## Create the Category and Subcategory DataFrames
 ![Category DataFrame](https://github.com/user-attachments/assets/98a12811-1f85-410d-827e-d30a70795a43)
